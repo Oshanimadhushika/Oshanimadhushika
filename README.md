@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://c.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" width="1000" height="250"/>
+  <img src="https://c.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" width="900" height="250"/>
 </div>
 <h1 align="center">Hi 👋, I'm Oshani Madhushika</h1>
 

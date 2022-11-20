@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/oshani-madhushika-6542a1244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oshani-madhushika-6542a1244" height="30" width="40" /></a>
 <a href="https://fb.com/oshani madhushika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oshani madhushika" height="30" width="40" /></a>
-<a href="https://instagram.com/_o_s_h_i___o_f_f_i_c_i_a_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_o_s_h_i___o_f_f_i_c_i_a_l" height="30" width="40" /></a>
+<a href="https://instagram.com/_o_s_h_i___o_f_f_i_c_i_a_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_oshi.girl_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/oshani madhushika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oshani madhushika" height="30" width="40" /></a>
 </p>
 

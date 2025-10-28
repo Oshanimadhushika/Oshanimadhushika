@@ -17,11 +17,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshanimadhushika" alt="oshanimadhushika" /></a> </p>
 
-- 👩‍🎓 I’m a **Associate Software Engineer**
+- 👩‍🎓 I’m a **Associate Software Engineer.**
 
-- 🔭 I’m Working at **Aventure IT Solutions(pvt)Ltd**
+- 🔭 I’m currently Working at **Aventure IT Solutions(pvt)Ltd.**
 
-- 🌱 I’m currently doing **Frontend side works**
+- 🌱 I’m mostly working with **Frontend technologies.**
 
 
 - 👨‍💻 All of my projects are available at [https://oshanimadhushika.github.io/](https://oshanimadhushika.github.io/)

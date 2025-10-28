@@ -17,11 +17,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshanimadhushika" alt="oshanimadhushika" /></a> </p>
 
-- 👩‍🎓 I’m a **Student**
+- 👩‍🎓 I’m a **Associate Software Engineer**
 
-- 🔭 I’m Studying at **IJSE**
+- 🔭 I’m Working at **Aventure IT Solutions(pvt)Ltd**
 
-- 🌱 I’m currently learning **Performance testing**
+- 🌱 I’m currently doing **Frontend side works**
 
 
 - 👨‍💻 All of my projects are available at [https://oshanimadhushika.github.io/](https://oshanimadhushika.github.io/)
